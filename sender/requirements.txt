@@ -1,0 +1,5 @@
+loguru==0.5.3
+httpx==0.18.2
+beautifulsoup4==4.9.3
+pydantic==1.8.2
+tinydb==4.5.1
